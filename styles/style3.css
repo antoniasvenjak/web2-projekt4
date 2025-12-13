@@ -1,0 +1,13 @@
+img {
+  max-width: 250px;
+  height: auto;
+  margin: 15px 10px;
+  border-radius: 10px;
+  border: 3px solid #3b82f6;
+  display: inline-block;
+}
+
+img:hover {
+  transform: scale(1.08);
+  border-color: #0d2161;
+}
